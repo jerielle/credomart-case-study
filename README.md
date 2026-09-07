@@ -56,19 +56,19 @@ I was involved in:
 
 ### Homepage
 
-![Credomart Homepage](screenshots/homepage.png)
+![Credomart Homepage](screenshot/homepage.png)
 
 ### Shop
 
-![Shop](screenshots/shop.png)
+![Shop](screenshot/shop.png)
 
 ### View Product
 
-![View Product](screenshots/view.png)
+![View Product](screenshot/view.png)
 
 ### Admin Page
 
-![Admin Page](screenshots/admin.png)
+![Admin Page](screenshot/admin.png)
 
 ## 🎥 Demo
 
