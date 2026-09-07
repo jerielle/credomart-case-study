@@ -54,7 +54,21 @@ I was involved in:
 
 ## 📸 Screenshots
 
-Add screenshots here.
+### Homepage
+
+![Credomart Homepage](screenshots/homepage.png)
+
+### Shop
+
+![Shop](screenshots/shop.png)
+
+### View Product
+
+![View Product](screenshots/view.png)
+
+### Admin Page
+
+![Admin Page](screenshots/admin.png)
 
 ## 🎥 Demo
 
